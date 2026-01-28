@@ -1,0 +1,3 @@
+domain:AI & ML
+title: fake message detector
+duration:6months
