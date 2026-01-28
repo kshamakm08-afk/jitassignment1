@@ -1,0 +1,4 @@
+name:amulya
+sec:B 
+semester:5th sem
+USN:4ID24EC095
